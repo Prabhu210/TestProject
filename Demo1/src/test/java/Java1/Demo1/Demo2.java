@@ -8,7 +8,7 @@ public class Demo2 {
 	@Test(priority = 2)
     void setup()
     {
-        System.out.println("This is opening browser");
+        System.out.println("This is opening browser chrome");
     }
     @Test(priority = 3)
     void SearchCustomer()
