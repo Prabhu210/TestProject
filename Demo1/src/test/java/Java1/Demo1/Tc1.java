@@ -10,6 +10,10 @@ import org.testng.annotations.Test;
 
 public class Tc1 {
 	@BeforeClass
+	
+	
+	fghjkl
+	
     void beforeclass()
     {
         System.out.println("This will be executed before class ");
